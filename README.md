@@ -35,7 +35,7 @@ This repository contains the submission for the Data Visualization Competition f
 </p>
 
 ## Credits
-This project was developed by [Asad Ali](https://github.com/asadali27232) in participation with [M Haroom Shahzad](https://github.com/HaroonMalik771) for the Data Visualization Competition under the team name Visualizers.
+This project was developed by [Asad Ali](https://github.com/asadali27232) in participation with [Muhammad Haroom Shahzad](https://github.com/HaroonMalik771) for the Data Visualization Competition under the team name Visualizers.
 
 ### 📫 Let's Connect
 
