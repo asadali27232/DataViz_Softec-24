@@ -3,11 +3,10 @@
 This repository contains the submission for the Data Visualization Competition focused on analyzing carbon emissions data. The competition involves two rounds: the first round involves data loading, preparation, ETL process, feature engineering, and table reshaping, while the second round involves creating interactive dashboards based on the features designed in round one.
 
 ## Tools Used
-- **Database**: [Specify the database you used, e.g., PostgreSQL, MySQL, SQLite]
-- **Programming Languages**: [List the programming languages used, e.g., Python, SQL]
-- **Visualization Libraries**: [Specify the libraries used for visualization, e.g., Matplotlib, Seaborn, Plotly]
-- **Dashboard Framework**: [If applicable, specify the dashboard framework used, e.g., Dash, Streamlit]
-- **Version Control**: Git and GitHub
+- **Database**: ![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-blue)
+- **Programming Language**: ![Python](https://img.shields.io/badge/Programming%20Language-Python-green)
+- **Dashboard Framework**: ![Power BI](https://img.shields.io/badge/Dashboard%20Framework-Power%20BI-yellow)
+- **Version Control**: ![Git and GitHub](https://img.shields.io/badge/Version%20Control-Git%20and%20GitHub-lightgrey)
 
 ## Folder Structure
 
