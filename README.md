@@ -3,7 +3,7 @@
 This repository contains the submission for the Data Visualization Competition focused on analyzing carbon emissions data. The competition involves two rounds: the first round involves data loading, preparation, ETL process, feature engineering, and table reshaping, while the second round involves creating interactive dashboards based on the features designed in round one.
 
 ## Tools Used
-![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-blue?style=flat&logo=microsoft-sql-server)
+![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-blue?style=for-the-badge&logo=microsoft-sql-server)
 ![Python](https://img.shields.io/badge/Programming_Language-Python-green?style=flat&logo=python)
 ![Power BI](https://img.shields.io/badge/Dashboard_Framework-Power_BI-yellow?style=flat&logo=powerbi)
 ![Git and GitHub](https://img.shields.io/badge/Version_Control-Git_and_GitHub-lightgrey?style=flat&logo=github)
