@@ -4,9 +4,9 @@ This repository contains the submission for the Data Visualization Competition f
 
 ## Tools Used
 ![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-blue?style=for-the-badge&logo=microsoft-sql-server)
-![Python](https://img.shields.io/badge/Programming_Language-Python-green?style=flat&logo=python)
-![Power BI](https://img.shields.io/badge/Dashboard_Framework-Power_BI-yellow?style=flat&logo=powerbi)
-![Git and GitHub](https://img.shields.io/badge/Version_Control-Git_and_GitHub-lightgrey?style=flat&logo=github)
+![Python](https://img.shields.io/badge/Programming_Language-Python-green?style=for-the-badge&logo=python)
+![Power BI](https://img.shields.io/badge/Dashboard_Framework-Power_BI-yellow?style=for-the-badge&logo=powerbi)
+![Git and GitHub](https://img.shields.io/badge/Version_Control-Git_and_GitHub-lightgrey?style=for-the-badge&logo=github)
 
 
 ## Folder Structure
