@@ -9,6 +9,18 @@ This repository contains the submission for the Data Visualization Competition f
 - **Dashboard Framework**: [If applicable, specify the dashboard framework used, e.g., Dash, Streamlit]
 - **Version Control**: Git and GitHub
 
+## Folder Structure
+
+- **ETL**: Contains scripts and files related to the Extract, Transform, Load (ETL) process for Round 1.
+- **Visualization**: Includes .pbix files for generating visualizations and charts based on the analyzed data.
+- **python_script**: Contains Python scripts for data processing tasks.
+- **DB Creation.sql**: SQL script for creating database tables and structures.
+- **Global_Carbon_Budget.xlsx**: Excel file with data related to the global carbon budget.
+- **National_Fossil_Carbon_Emissions.xlsx**: Excel file with data on national fossil carbon emissions.
+- **README.md**: This file provides an overview of the project and its structure.
+- **Regions.xlsx**: Excel file with data on different regions.
+- **readme.docx**: Word document with additional documentation or instructions.
+
 ## Installation
 1. Clone the repository:
    ```bash
