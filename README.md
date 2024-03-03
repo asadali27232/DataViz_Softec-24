@@ -8,7 +8,6 @@ This repository contains the submission for the Data Visualization Competition f
 ![Power BI](https://img.shields.io/badge/Dashboard_Framework-Power_BI-yellow?style=for-the-badge&logo=powerbi)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-purple?style=for-the-badge&logo=visualstudio)
 ![SQL Server Integration Services (SSIS)](https://img.shields.io/badge/Extension-SSIS-yellow?style=for-the-badge&logo=microsoft-sql-server)
-![Git and GitHub](https://img.shields.io/badge/Version_Control-Git_and_GitHub-lightgrey?style=for-the-badge&logo=github)
 
 ## Folder Structure
 
