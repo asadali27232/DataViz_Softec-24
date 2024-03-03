@@ -28,10 +28,12 @@ This repository contains the submission for the Data Visualization Competition f
 
 ## Screenshots
 <p align="left">
-  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0001.jpg" alt="Alt Text 1" width="24%" />
-  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0002.jpg" alt="Alt Text 2" width="24%" />
-  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0003.jpg" alt="Alt Text 3" width="24%" />
-  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0004.jpg" alt="Alt Text 4" width="24%" />
+   <img src="https://github.com/asadali27232/DataViz_Softec-24/blob/main/Visualization/Dashboard-images/0001.jpg" alt="Alt Text 1" width="33%" />
+   <img src="https://github.com/asadali27232/DataViz_Softec-24/blob/main/Visualization/Dashboard-images/0002.jpg" alt="Alt Text 1" width="33%" />
+   <img src="https://github.com/asadali27232/DataViz_Softec-24/blob/main/Visualization/Dashboard-images/0003.jpg" alt="Alt Text 1" width="33%" />
+   <img src="https://github.com/asadali27232/DataViz_Softec-24/blob/main/Visualization/Dashboard-images/0004.jpg" alt="Alt Text 1" width="33%" />
+   <img src="https://github.com/asadali27232/DataViz_Softec-24/blob/main/Visualization/Dashboard-images/0005.jpg" alt="Alt Text 1" width="33%" />
+   <img src="https://github.com/asadali27232/DataViz_Softec-24/blob/main/Visualization/Dashboard-images/0006.jpg" alt="Alt Text 1" width="33%" />
 </p>
 
 ## Credits
