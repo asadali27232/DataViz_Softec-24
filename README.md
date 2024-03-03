@@ -1,12 +1,5 @@
 # Data Visualization Competition: Carbon Emissions Analysis
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/DatViz_Softec-24)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/DatViz_Softec-24)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/DatViz_Softec-24?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/DatViz_Softec-24?style=social)
-![GitHub license](https://img.shields.io/github/license/yourusername/DatViz_Softec-24)
-
-## Description
 This repository contains the submission for the Data Visualization Competition focused on analyzing carbon emissions data. The competition involves two rounds: the first round involves data loading, preparation, ETL process, feature engineering, and table reshaping, while the second round involves creating interactive dashboards based on the features designed in round one.
 
 ## Tools Used
@@ -19,4 +12,24 @@ This repository contains the submission for the Data Visualization Competition f
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DatViz_Softec-24.git
+   git clone https://github.com/asadali27232/DatViz_Softec-24.git
+
+## Screenshots
+<p align="left">
+  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0001.jpg" alt="Alt Text 1" width="24%" />
+  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0002.jpg" alt="Alt Text 2" width="24%" />
+  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0003.jpg" alt="Alt Text 3" width="24%" />
+  <img src="https://github.com/asadali27232/PowerBI-CaseStudies-Projects/blob/main/Databel-Churn-Analysis/Images/0004.jpg" alt="Alt Text 4" width="24%" />
+</p>
+
+## Credits
+This project was developed by Asad Ali in participation with M Haroom Shahzad for the Data Visualization Competition under the team name Visualizers.
+
+### 📫 Let's Connect
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923074315952)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadali27232@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali27232/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asadalighaffar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asadali27232)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://asadali27232.github.io/asadali27232)
