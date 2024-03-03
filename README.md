@@ -1,4 +1,4 @@
-# Data Visualization Competition: Carbon Emissions Analysis
+# Data Visualization Competition: Carbon Emissions Analysis - Softec'24
 
 This repository contains the submission for the Data Visualization Competition focused on analyzing carbon emissions data. The competition involves two rounds: the first round involves data loading, preparation, ETL process, feature engineering, and table reshaping, while the second round involves creating interactive dashboards based on the features designed in round one.
 
